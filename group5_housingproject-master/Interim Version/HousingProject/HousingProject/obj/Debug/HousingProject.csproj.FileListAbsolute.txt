@@ -1,0 +1,12 @@
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.csprojAssemblyReference.cache
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingStudentProject.Login.resources
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.Properties.Resources.resources
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.csproj.GenerateResource.cache
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\bin\Debug\HousingProject.exe.config
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\bin\Debug\HousingProject.exe
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\bin\Debug\HousingProject.pdb
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.exe
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.pdb
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\HousingProject.Main.resources
+C:\Users\George\Documents\gitstuff\paprikaskrumpli\master\group5_housingproject\HousingProject\HousingProject\obj\Debug\ShoppingList.Shopping.resources
